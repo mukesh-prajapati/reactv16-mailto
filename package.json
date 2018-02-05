@@ -1,5 +1,5 @@
 {
-  "name": "react-mailto",
+  "name": "reactv16-mailto",
   "description": "A react component to create and display a mailto link.",
   "version": "0.4.1",
   "homepage": "https://github.com/jasonbellamy/react-mailto",
@@ -16,7 +16,7 @@
     "url": "https://github.com/jasonbellamy/react-mailto/issues"
   },
   "license": "MIT",
-  "main": "dist/react-mailto",
+  "main": "dist/reactv16-mailto",
   "engines": {
     "node": ">= 0.10.0"
   },
