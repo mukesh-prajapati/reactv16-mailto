@@ -1,22 +1,22 @@
 {
   "name": "reactv16-mailto",
   "description": "A react component to create and display a mailto link.",
-  "version": "0.4.1",
-  "homepage": "https://github.com/jasonbellamy/react-mailto",
+  "version": "0.4.2",
+  "homepage": "https://github.com/srikanthbandaru/reactv16-mailto",
   "author": {
-    "name": "Jason Bellamy",
-    "email": "j@sonbellamy.com",
-    "url": "http://jasonbellamy.com"
+    "name": "Srikanth Bandaru",
+    "email": "hello@bsrikanth.com",
+    "url": "http://bsrikanth.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jasonbellamy/react-mailto.git"
+    "url": "https://github.com/srikanthbandaru/reactv16-mailto.git"
   },
   "bugs": {
-    "url": "https://github.com/jasonbellamy/react-mailto/issues"
+    "url": "https://github.com/srikanthbandaru/reactv16-mailto/issues"
   },
   "license": "MIT",
-  "main": "dist/reactv16-mailto",
+  "main": "dist/reactv16-mailto.js",
   "engines": {
     "node": ">= 0.10.0"
   },

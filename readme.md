@@ -3,16 +3,19 @@
 > A react component to create and display a [mailto](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Email_links) link.
 
 
+## Credits
+- Library original author: (Jason Bellamy)[https://github.com/jasonbellamy]
+
 ## Getting Started
 
-- Install with [NPM](https://www.npmjs.org/) - `npm install --save react-mailto`
+- Install with [NPM](https://www.npmjs.org/) - `npm install --save reactv16-mailto`
 
 
 ## Usage
 
 ```javascript
 var React  = require('react');
-var Mailto = require('react-mailto');
+var Mailto = require('reactv16-mailto');
 
 var Component = React.createClass({
   render: function () {
@@ -38,7 +41,7 @@ headers   | `object`  | `<optional>` | `null`    | any standard mail header fiel
 
 ## Developing
 
-[react-mailto](https://github.com/jasonbellamy/react-mailto) is built using **ES6**. Run the following task to compile the `src/` into `dist/`.
+[reactv16-mailto](https://github.com/srikanthbandaru/reactv16-mailto) is built using **ES6**. Run the following task to compile the `src/` into `dist/`.
 
 ```bash
 npm run build
@@ -50,5 +53,5 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 
 ## License
-Copyright (c) 2015 [Jason Bellamy ](http://jasonbellamy.com)
+Copyright (c) 2015 [Srikanth Bandaru](http://sbandaru.com)
 Licensed under the MIT license.
