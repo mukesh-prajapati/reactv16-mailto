@@ -4,7 +4,7 @@
 
 
 ## Credits
-- Library original author: (Jason Bellamy)[https://github.com/jasonbellamy]
+- Library original author: [Jason Bellamy](https://github.com/jasonbellamy)
 
 ## Getting Started
 
@@ -14,18 +14,14 @@
 ## Usage
 
 ```javascript
-var React  = require('react');
-var Mailto = require('reactv16-mailto');
+import React from 'react';
+import Mailto from 'reactv16-mailto';
 
-var Component = React.createClass({
-  render: function () {
-    return (
-      <Mailto email="j@sonbellamy.com" obfuscate={true}>
+export const EmailComponent = () => (
+    <Mailto email="xyz@abc.com" obfuscate={true} >
         Email me!
-      </Mailto>
-    );
-  }
-});
+    </Mailto >
+);
 ```
 
 
